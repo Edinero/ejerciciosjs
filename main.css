@@ -1,0 +1,47 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-color: #8888883f;
+    text-align: center;
+    background: url(bg.jpeg);
+}
+
+.sector{
+    
+    
+    padding: 3rem;
+  
+}
+
+header{
+    padding: 2rem 0; 
+    background-color: #1494df;
+    border-bottom: 1px solid  #1494df;
+}
+
+button{
+    color: #fff;
+    background-color: #1494df;
+    border-radius: 40px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin-top: 2rem;
+    cursor: pointer;
+    
+}
+h1{
+   
+    font-weight: 300;
+    font-size: 1.5rem;
+ 
+}
+h4{
+    color:#444;
+    font-weight: 300;
+    line-height: 50px;
+
+}
+
